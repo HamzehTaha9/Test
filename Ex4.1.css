@@ -1,0 +1,48 @@
+#s1{
+border-color: blue ;
+border-width: 3px ; 
+border-style: solid; 
+}
+.hello{
+background:white; 
+}
+h1{
+	color:#9b59b6;
+}
+body{
+background:#bdc3c7 ;
+
+}h2{
+	color:orange;
+}
+li{
+	color:blue;
+}
+p{
+	background:yellow;
+}
+input{
+border: 3px solid red 
+}
+div p {
+	font-size: 25px ;
+}
+input[type="text"]{
+background:gray;
+
+}
+div:nth-of-type(3) p {
+background:pink ;
+
+}
+div:nth-of-type(3) p:nth-of-type(2){
+	border-color: black ;
+border-width: 3px ; 
+border-style: solid;
+}em{
+	font-size:25px; 
+}
+input[type="checkbox" checked]{
+
+	
+}
